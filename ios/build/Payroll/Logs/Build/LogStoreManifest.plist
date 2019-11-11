@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>75B450D1-B610-47A6-A1E7-89D37BD6BFEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75B450D1-B610-47A6-A1E7-89D37BD6BFEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Payroll project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Payroll</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Payroll with scheme Payroll and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593694839.57254303</real>
+			<key>timeStoppedRecording</key>
+			<real>593694846.14356506</real>
+			<key>title</key>
+			<string>Building workspace Payroll with scheme Payroll and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>75B450D1-B610-47A6-A1E7-89D37BD6BFEC</string>
+		</dict>
+		<key>ADBF91F4-B666-479B-B4B6-DDFCC3B7F570</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADBF91F4-B666-479B-B4B6-DDFCC3B7F570.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Payroll project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Payroll</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Payroll with scheme Payroll and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593694673.21514595</real>
+			<key>timeStoppedRecording</key>
+			<real>593694677.68792403</real>
+			<key>title</key>
+			<string>Building workspace Payroll with scheme Payroll and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>ADBF91F4-B666-479B-B4B6-DDFCC3B7F570</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
