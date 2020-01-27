@@ -10,12 +10,12 @@ import BackHandlerSingleton from 'ServiceProviders/BackHandlerSingleton';
 import UpcomingShifts from '../../PayrollComponents/Tabs/UpcomingShifts';
 import AvailableShifts from '../../PayrollComponents/Tabs/AvailableShifts';
 import SideMenu from 'react-native-side-menu';
-import SideDrawerContainer from '../../AppLevelComponents/UI/SideDrawerContainer';
+import SideDrawerContainer from 'AppLevelComponents/UI/SideDrawerContainer';
 import {FloatingAction} from 'react-native-floating-action';
 import Icons from '../../AppLevelComponents/UI/Icons';
 import CenterModal from '../../AppLevelComponents/UI/CenterModal';
-const FirstRoute = () => <UpcomingShifts />;
 
+const FirstRoute = () => <UpcomingShifts />;
 const SecondRoute = () => <AvailableShifts />;
 
 class Dashboard extends Component {

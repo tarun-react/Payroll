@@ -3,6 +3,8 @@ import AsyncStorage from '@react-native-community/async-storage';
 import { Colors } from "UIProps/Colors";
 import firebase from "react-native-firebase";
 import AsyncStorageHandler from "StorageHelpers/AsyncStorageHandler";
+
+
 export default class PushNotification extends Component {
   async componentDidMount() {
     this.checkPermission();
@@ -32,7 +34,6 @@ export default class PushNotification extends Component {
           sound: "default",
           show_in_foreground: true
         })
-
           // .setNotificationId(notification.notificationId)
           .setTitle(notification.title)
           .setBody(notification.body)
@@ -58,7 +59,7 @@ export default class PushNotification extends Component {
       .notifications()
       .onNotificationOpened(notificationOpen => {
         const { title, body } = notificationOpen.notification;
-        alert(title)
+        // alert(title)
       });
 
     /*

@@ -80,7 +80,6 @@ export class ShiftDetail extends Component {
         </View>
       );
     } else {
-      alert(JSON.stringify(this.state.data ))
       return (
         <ClockInOutBtns
           clockIN={clockIN}

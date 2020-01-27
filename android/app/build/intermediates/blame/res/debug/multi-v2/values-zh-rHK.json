@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/9f0857edc3a6a04e17dda46745723341/res/values-zh-rHK/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/8941e35b2ff5535bb749059fa0c4a91f/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "194",
+                        "endColumns": "93",
+                        "endOffsets": "287"
+                    },
+                    "to": {
+                        "startLines": "71",
+                        "startColumns": "4",
+                        "startOffsets": "7303",
+                        "endColumns": "97",
+                        "endOffsets": "7396"
+                    }
+                },
+                {
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc02484a2155998a63da71549ce1aca7/res/values-zh-rHK/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,24 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ba9c34c38b68d4c4e43d937c2ae23ea1/res/values-zh-rHK/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "194",
-                        "endColumns": "93",
-                        "endOffsets": "287"
-                    },
-                    "to": {
-                        "startLines": "71",
-                        "startColumns": "4",
-                        "startOffsets": "7303",
-                        "endColumns": "97",
-                        "endOffsets": "7396"
-                    }
-                },
-                {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/values-zh-rHK/values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -106,7 +106,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/b95bdec8408a33f0a8cdfcea477c9db3/res/values-zh-rHK/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/5bdd1ba8e8498de74a3844a80a345ca8/res/values-zh-rHK/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

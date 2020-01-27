@@ -4,7 +4,7 @@
             "outputFile": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/913509dc7b86bcac498afe760d4c2125/res/values-watch-v20/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/8c5c9dee3550c6cdc8f17ef33d070945/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

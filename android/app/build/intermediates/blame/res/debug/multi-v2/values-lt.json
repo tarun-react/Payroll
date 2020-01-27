@@ -4,6 +4,23 @@
             "outputFile": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
             "map": [
                 {
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/8941e35b2ff5535bb749059fa0c4a91f/res/values-lt/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "190",
+                        "endColumns": "98",
+                        "endOffsets": "288"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "5756",
+                        "endColumns": "102",
+                        "endOffsets": "5854"
+                    }
+                },
+                {
                     "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/8acdfee2714911105bd9f2e914bc6919/res/values-lt/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/b95bdec8408a33f0a8cdfcea477c9db3/res/values-lt/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/5bdd1ba8e8498de74a3844a80a345ca8/res/values-lt/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -72,7 +89,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/9f0857edc3a6a04e17dda46745723341/res/values-lt/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc02484a2155998a63da71549ce1aca7/res/values-lt/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -86,23 +103,6 @@
                         "startOffsets": "4059",
                         "endColumns": "217",
                         "endOffsets": "4272"
-                    }
-                },
-                {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ba9c34c38b68d4c4e43d937c2ae23ea1/res/values-lt/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "190",
-                        "endColumns": "98",
-                        "endOffsets": "288"
-                    },
-                    "to": {
-                        "startLines": "48",
-                        "startColumns": "4",
-                        "startOffsets": "5756",
-                        "endColumns": "102",
-                        "endOffsets": "5854"
                     }
                 }
             ]

@@ -21,7 +21,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable/com_facebook_button_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable/com_facebook_button_background.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
@@ -37,7 +37,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/layout/redbox_view.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
@@ -61,11 +61,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -357,11 +357,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/913509dc7b86bcac498afe760d4c2125/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/8c5c9dee3550c6cdc8f17ef33d070945/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_design_fab_background.xml.flat",
@@ -409,7 +409,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -501,7 +501,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_com_facebook_login_fragment.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/layout/com_facebook_login_fragment.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/layout/com_facebook_login_fragment.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -513,7 +513,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
@@ -533,7 +533,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_icon.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable/com_facebook_button_icon.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable/com_facebook_button_icon.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -549,7 +549,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -569,7 +569,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable-xhdpi-v4/com_facebook_close.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable-xhdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -601,7 +601,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -665,11 +665,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -733,11 +733,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/layout/fps_view.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/interpolator_mtrl_linear_out_slow_in.xml.flat",
@@ -809,7 +809,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -837,7 +837,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -897,7 +897,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/layout/dev_loading_view.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_mtrl_tabs_default_indicator.xml.flat",
@@ -921,7 +921,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -933,11 +933,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_com_facebook_tooltip_bubble.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/layout/com_facebook_tooltip_bubble.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/layout/com_facebook_tooltip_bubble.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
@@ -949,7 +949,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1097,7 +1097,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable/com_facebook_auth_dialog_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable/com_facebook_auth_dialog_background.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
@@ -1105,7 +1105,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -1125,7 +1125,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/color_com_facebook_button_text_color.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/color/com_facebook_button_text_color.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/color/com_facebook_button_text_color.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
@@ -1165,7 +1165,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1185,11 +1185,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/xml_rn_dev_preferences.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/xml/rn_dev_preferences.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/xml/rn_dev_preferences.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
@@ -1217,7 +1217,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
@@ -1265,7 +1265,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable/com_facebook_button_like_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable/com_facebook_button_like_background.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1321,11 +1321,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
@@ -1333,7 +1333,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1525,7 +1525,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1549,7 +1549,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
@@ -1573,7 +1573,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1673,7 +1673,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/913509dc7b86bcac498afe760d4c2125/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/8c5c9dee3550c6cdc8f17ef33d070945/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
@@ -1681,11 +1681,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1705,11 +1705,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_favicon_blue.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable/com_facebook_favicon_blue.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable/com_facebook_favicon_blue.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/color_com_facebook_send_button_text_color.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/color/com_facebook_send_button_text_color.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/color/com_facebook_send_button_text_color.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
@@ -1725,7 +1725,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_redbox_top_border_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/drawable/redbox_top_border_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/drawable/redbox_top_border_background.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
@@ -1749,7 +1749,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
@@ -1865,7 +1865,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1881,7 +1881,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable-hdpi-v4/com_facebook_close.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable-hdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",
@@ -1901,7 +1901,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
@@ -1921,7 +1921,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/913509dc7b86bcac498afe760d4c2125/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/8c5c9dee3550c6cdc8f17ef33d070945/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
@@ -1929,7 +1929,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_com_facebook_activity_layout.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/layout/com_facebook_activity_layout.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/layout/com_facebook_activity_layout.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
@@ -1957,15 +1957,15 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_com_facebook_device_auth_dialog_fragment.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/layout/com_facebook_device_auth_dialog_fragment.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/layout/redbox_item_title.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1989,7 +1989,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_send_button_icon.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable/com_facebook_send_button_icon.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable/com_facebook_send_button_icon.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-v21_abc_dialog_material_background.xml.flat",
@@ -1997,7 +1997,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/color_mtrl_chip_close_icon_tint.xml.flat",
@@ -2029,7 +2029,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
@@ -2037,7 +2037,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
@@ -2057,11 +2057,11 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
@@ -2085,7 +2085,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_background.png.flat",
@@ -2101,7 +2101,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_com_facebook_smart_device_dialog_fragment.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/layout/com_facebook_smart_device_dialog_fragment.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
@@ -2141,7 +2141,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -2193,7 +2193,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
@@ -2285,7 +2285,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
@@ -2313,7 +2313,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -2405,7 +2405,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_header_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable/com_facebook_auth_dialog_header_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable/com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -2445,7 +2445,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/443137b73448f75bf429bae2e0300d6b/res/drawable-mdpi-v4/com_facebook_close.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ff11fad9511c7a2bc6d060aadcd916eb/res/drawable-mdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -2453,7 +2453,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
@@ -2489,7 +2489,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_send_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable/com_facebook_button_send_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable/com_facebook_button_send_background.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -2505,7 +2505,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/43a41405d2063b29cb8cacb7818f9448/res/layout/redbox_item_frame.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a1004ba0cfdf85a61bbef63ebc205b82/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
@@ -2513,7 +2513,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/dc47b3e7c29a8c435fb4cd30a9434900/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/597c131c7fa72efa848cebd8c5ea55a2/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -2529,7 +2529,7 @@
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/fa8fc9c911b94f489344e83fed1b7aa4/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/35187b4dab6d6de4db34f7ef021e34f7/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/hermes/Projects/Payroll/android/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Nov 11 16:00:49 IST 2019
+#Tue Jan 14 17:10:56 IST 2020
 70.path=fonts/Fontisto.ttf
 78.base=/Users/hermes/Projects/Payroll/android/app/build/intermediates/merged_assets/debug/out
 84.path=lib/armeabi-v7a/libglog.so

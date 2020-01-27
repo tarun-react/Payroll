@@ -9,8 +9,10 @@ import Fonts from 'UIProps/Fonts';
 import {withNavigation} from 'react-navigation';
 import {getAvailableShifts} from 'ServiceProviders/ApiCaller';
 import {AvailableShiftConsumer} from '../../AppLevelComponents/Contexts/CxtAvailableShift';
+import { UserInfoConsumer } from '../../AppLevelComponents/Contexts/CxtUserInfo';
 
 let currentContext
+let infoContext
 export class AvailableShifts extends Component {
   navigateAvailables = () => {
     this.props.navigation.navigate('availables');
@@ -28,7 +30,7 @@ export class AvailableShifts extends Component {
   getShifts = () => {
     currentContext.stopRefresh()
     this.setState({isApiCall: true});
-    getAvailableShifts()
+    getAvailableShifts(infoContext.userData.loginuserID)
       .then(resp => {
         console.log(resp);
         this.setState({isApiCall: false, data: resp.data || []});
@@ -52,6 +54,12 @@ export class AvailableShifts extends Component {
             this.getShifts()
           }
           return (
+            <UserInfoConsumer>
+              {context => {
+              infoContext = context
+                              return(
+                                  
+                            
             <Container isApiCall={this.state.isApiCall} onRefresh={this.onRefresh}>
               <View style={{width: '100%'}}>
                 <CustomText
@@ -71,6 +79,9 @@ export class AvailableShifts extends Component {
                 </NetworkAwareContent>
               </View>
             </Container>
+            )
+                          }}
+            </UserInfoConsumer>
           );
         }}
       </AvailableShiftConsumer>
